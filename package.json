@@ -1,0 +1,19 @@
+{
+  "name": "api-automation-cypress",
+  "version": "1.0.0",
+  "description": "API Automation using Cypress for fast results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahing/API-Automation-Cypress.git"
+  },
+  "author": "Shahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahing/API-Automation-Cypress/issues"
+  },
+  "homepage": "https://github.com/shahing/API-Automation-Cypress#readme"
+}
