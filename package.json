@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shahing/API-Automation-Cypress/issues"
   },
-  "homepage": "https://github.com/shahing/API-Automation-Cypress#readme"
+  "homepage": "https://github.com/shahing/API-Automation-Cypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
 }
