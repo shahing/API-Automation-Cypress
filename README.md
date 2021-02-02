@@ -12,3 +12,6 @@ It will create some example file
 
 Under Integration folder
 Write your api test
+
+To run the test
+Command : npm run test
