@@ -1,1 +1,14 @@
-{}
+{
+	"video": false,
+	"fixturesFolder": "cypress/fixtures",
+	"integrationFolder": "cypress/integration",
+	"reporter": "mochawesome",
+	"reporterOptions": {
+		"charts": false,
+		"html": true,
+		"json": true,
+		"reportDir": "cypress/report/mochawesome-report",
+		"overwrite": false,
+		"inline": true
+	}
+}

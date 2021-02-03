@@ -4,7 +4,7 @@
   "description": "API Automation using Cypress for fast results",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "cypress run --reporter mochawesome"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   "homepage": "https://github.com/shahing/API-Automation-Cypress#readme",
   "dependencies": {},
   "devDependencies": {
-    "cypress": "^6.4.0"
+    "cypress": "^6.4.0",
+    "mochawesome": "^6.2.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.1.0"
   }
 }
