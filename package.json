@@ -4,7 +4,8 @@
   "description": "API Automation using Cypress for fast results",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --reporter mochawesome"
+    "test": "cypress run --reporter mochawesome",
+    "test1": "cypress run"
   },
   "repository": {
     "type": "git",
